@@ -1,3 +1,7 @@
+#Creat test repository in Github
+#Sync test with local computer
+
+
 cd.. to go out
 
 git --help (to check git)
@@ -5,5 +9,7 @@ git --help (to check git)
 git clone (to download)
 
 ls --all(to check all folders)
+
+
 
 
